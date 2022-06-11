@@ -1,4 +1,4 @@
-# g-voting
+# np-voting
 
 
 NoPixel Inspired Voting UI
